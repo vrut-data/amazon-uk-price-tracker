@@ -160,4 +160,4 @@ https://github.com/vrut-data
 
 ## 📄 License
 
-MIT — free to use and modify with attribution.
+MIT - free to use and modify with attribution.
