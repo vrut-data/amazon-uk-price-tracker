@@ -2,7 +2,7 @@
 
 A Python automation project that scrapes an Amazon UK product page every 10 seconds, logs the price to CSV, and sends an email alert when the price drops below a set threshold.
 
-**Product tracked:** Data Science T-Shirt (Amazon UK) — £17.49  
+**Product tracked:** Data Science T-Shirt (Amazon UK) - £17.49  
 **Data collected:** 100 price records over ~18 minutes on 11 June 2026
 
 ---
@@ -52,7 +52,7 @@ A Python automation project that scrapes an Amazon UK product page every 10 seco
 
 | Library | Version | Purpose |
 |---------|---------|---------|
-| `curl_cffi` | ≥0.6 | HTTP requests with Chrome TLS fingerprint — bypasses Amazon UK 503 bot block |
+| `curl_cffi` | ≥0.6 | HTTP requests with Chrome TLS fingerprint-bypasses Amazon UK 503 bot block |
 | `beautifulsoup4` | ≥4.12 | HTML parsing and CSS selector-based price extraction |
 | `pandas` | ≥2.0 | Reading, analysing, and displaying logged CSV data |
 | `matplotlib` | ≥3.7 | Price history chart with min/max/threshold markers |
@@ -150,10 +150,10 @@ PRICE_THRESHOLD = 14.99
 ## 👤 Author
 
 **Vrutant Vaghela**  
-MSc Data Science — University of East London (graduating September 2026)  
-Background: 6 years in Operations & Inventory Analytics, Ahmedabad
+MSc Data Science - University of East London (graduating September 2026)  
+Background: 6 years in BDE , Ahmedabad
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+www.linkedin.com/in/vrutantvaghela
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
