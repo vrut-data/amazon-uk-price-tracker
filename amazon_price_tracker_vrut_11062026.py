@@ -28,7 +28,7 @@ import smtplib
 # ──────────────────────────────────────────────
 # CONFIG — Change only this section
 # ──────────────────────────────────────────────
-URL = 'https://www.amazon.co.uk/dp/YOUR_PRODUCT_ASIN'
+URL = 'https://www.amazon.co.uk/dp/B0B1XYS794'
 
 CHECK_INTERVAL  = 10     # seconds between each price check
 MAX_ROWS        = 100    # stop tracker after this many CSV rows
