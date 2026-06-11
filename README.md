@@ -154,7 +154,7 @@ MSc Data Science - University of East London (graduating September 2026)
 Background: 6 years in BDE , Ahmedabad
 
 www.linkedin.com/in/vrutantvaghela
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/YOUR_USERNAME)
+https://github.com/vrut-data
 
 ---
 
